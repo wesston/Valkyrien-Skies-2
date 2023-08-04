@@ -6,6 +6,9 @@
 <h1 align="center">
 Valkyrien Skies 2
 </h1>
+<br>
+<br>
+<h2 align="center" style="color:#2cff14;">Guys this is a fork but potato adding the block breaking dont get angry</h2>
 <p align="center">
 <a href="https://www.valkyrienskies.org/">Website</a> - <a href="https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies">CurseForge</a> - 
 <a href="https://modrinth.com/mod/valkyrien-skies">Modrinth</a> - <a href="https://wiki.valkyrienskies.org/wiki/Main_Page">Wiki</a> - <a href="https://discord.gg/rG3QNDV">Discord</a>
